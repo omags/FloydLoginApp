@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vendor</string>
+    <string name="welcome_button_message">click me</string>
+
+   <!--HINTS-->
+    <string name="your_name">write your name</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+
+
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vendor</string>
+    <string name="welcome_button_message" translatable="false">presioname</string>
+
+    <!--HINTS-->
+    <string name="your_name">ecribe tu nombre</string>
+    <string name="password">contrasenia</string>
+    <string name="email">correo electronico</string>
+
+</resources>
